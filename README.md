@@ -3,4 +3,4 @@ Se você está interessado em criar sua primeira página web, este artigo é par
 
 Esse projeto faz parte de uma post do blog frontend em foco
 
-[Link para o post completo.](https://frontendemfoco.com.br/)https://frontendemfoco.com.br/
+[Link para o post completo.](https://frontendemfoco.com.br/)
